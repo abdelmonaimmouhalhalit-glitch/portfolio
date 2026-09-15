@@ -12,7 +12,6 @@ SaaS **assurance construction** (DO / décennale) : preuves scellées terrain, c
 | Backoffice | https://app.terrops.fr |
 | Mobile web | https://mobile.terrops.fr |
 | App Store | https://apps.apple.com/fr/app/terrops/id6770127316 |
-| Code démo | https://github.com/abdelmonaimmouhalhalit-glitch/terrops-showcase |
 
 ## Stack
 
@@ -21,4 +20,3 @@ Expo / React Native · TypeScript · **AWS** (Cognito, RDS PostgreSQL, Lambda, S
 ## Dépôts
 
 - `copilot-chantier` — **privé** (prod)
-- `terrops-showcase` — **public** (extrait Java + Angular)

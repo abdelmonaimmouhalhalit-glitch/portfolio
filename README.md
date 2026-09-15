@@ -5,7 +5,7 @@ Ingénieur logiciel (ISIMA) · **Java / Spring · Angular · Next.js · React Na
 Inventaire public de **tous les projets** (prod, MVP, missions, expérimentations).  
 Le code source sensible reste **privé** — ici : existence, stack, contexte, démos.
 
-> Pins recommandés : ce dépôt + [terrops-showcase](https://github.com/abdelmonaimmouhalhalit-glitch/terrops-showcase)
+> Pin recommandé : ce dépôt
 
 ---
 
@@ -27,8 +27,7 @@ Le code source sensible reste **privé** — ici : existence, stack, contexte, d
 
 | # | Projet | Visibilité code | Stack courte | Fiche |
 |---|--------|-----------------|--------------|-------|
-| 1 | Terrops (mobile + backoffice + landing) | Privé · showcase public | Expo, RN, **AWS**, **Terraform**, RDS | [terrops](./case-studies/terrops.md) / [détail](./case-studies/copilot-chantier.md) |
-| 2 | Terrops Showcase | **Public** | Java 17, Spring, Angular | [repo](https://github.com/abdelmonaimmouhalhalit-glitch/terrops-showcase) |
+| 1 | Terrops (mobile + backoffice + landing) | Privé | Expo, RN, **AWS**, **Terraform**, RDS | [terrops](./case-studies/terrops.md) / [détail](./case-studies/copilot-chantier.md) |
 | 3 | Pack VLM conformité DTU | Privé (pack) | VLM, Edge Functions, JSON schemas | [vlm](./case-studies/terrops-vlm.md) |
 | 4 | DocKit / MyATSCheck | Privé (local) | Next.js, Supabase, Stripe, IA | [dockit-ats](./case-studies/dockit-ats.md) |
 | 5 | ImmoIA / Immolib | Privé | React, Vite, Supabase, n8n | [immolib-ia](./case-studies/immolib-ia.md) |
@@ -84,7 +83,6 @@ CI / Host    Vercel · Docker · GitHub Actions · EAS · Render
 |--------|---------|
 | Privé | Code prod, secrets, données client |
 | Public (ce repo) | Existence + stack + impact + liens démo |
-| Showcase | Petit extrait exécutable sans secrets ([terrops-showcase](https://github.com/abdelmonaimmouhalhalit-glitch/terrops-showcase)) |
 
 **Total inventorié :** 17 projets / produits (hors SDK Flutter cloné).  
 Si tu as d’autres repos (autre compte GitHub, école ISIMA, GitLab), envoie les URLs — on les ajoute.

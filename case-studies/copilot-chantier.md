@@ -15,7 +15,6 @@ SaaS **assurance construction** (DO / décennale) et app mobile chantier : preuv
 | Backoffice | https://app.terrops.fr |
 | Mobile web | https://mobile.terrops.fr |
 | App Store | https://apps.apple.com/fr/app/terrops/id6770127316 |
-| Showcase public | https://github.com/abdelmonaimmouhalhalit-glitch/terrops-showcase |
 
 ## Stack
 
