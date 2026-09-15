@@ -1,24 +1,15 @@
 # Enjoy — fiche publique (code privé)
 
-> Dépôt source : **privé** (`Enjoy`).  
-> Démo publique (build) : https://enjoy-five.vercel.app
+Site vitrine expériences / restaurant (Casablanca).
 
-## Contexte
+## Démo
 
-Site vitrine **expériences / restaurant** (Casablanca) : galeries, cartes, pages expériences (brunch, taste, drink, italian, american, sweet…).
+https://enjoy-five.vercel.app
 
 ## Stack
 
-| Couche | Technologies |
-|--------|----------------|
-| Build | Vite |
-| Front | HTML / CSS / JS (site statique) |
-| Hosting | Vercel |
+Vite · HTML/CSS/JS · Vercel
 
-## Livrable visible
+## Dépôt
 
-- Déploiement live sans ouvrir le dépôt source : [enjoy-five.vercel.app](https://enjoy-five.vercel.app)
-
-## Code
-
-**Non public**. Seule la démo hébergée est exposée.
+`Enjoy` — **privé**
