@@ -2,6 +2,8 @@
 
 SaaS **assurance construction** (DO / décennale) : preuves scellées terrain, contrôles chantier, dossiers sinistre, portails assureur/courtier.
 
+> Fiche détaillée stack cloud : [copilot-chantier.md](./copilot-chantier.md)
+
 ## Surfaces livrées
 
 | Surface | URL |
@@ -14,7 +16,7 @@ SaaS **assurance construction** (DO / décennale) : preuves scellées terrain, c
 
 ## Stack
 
-Expo / React Native · Supabase (Postgres, RLS, Edge Functions) · backoffice TypeScript · CI GitHub Actions · EAS Build · Sentry · WatermelonDB (offline)
+Expo / React Native · TypeScript · **AWS** (Cognito, RDS PostgreSQL, Lambda, S3) · **Terraform** · GitHub Actions · EAS Build · Sentry · WatermelonDB · Stripe
 
 ## Dépôts
 

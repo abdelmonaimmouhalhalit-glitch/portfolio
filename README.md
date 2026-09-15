@@ -1,6 +1,6 @@
 # Portfolio technique — Abdelmonaim Mouhalhal
 
-Ingénieur logiciel (ISIMA) · **Java / Spring · Angular · Next.js · React Native / Expo · Flutter · Laravel · TypeScript · Supabase · PostgreSQL**
+Ingénieur logiciel (ISIMA) · **Java / Spring · Angular · Next.js · React Native / Expo · Flutter · Laravel · TypeScript · AWS · Terraform · PostgreSQL**
 
 Inventaire public de **tous les projets** (prod, MVP, missions, expérimentations).  
 Le code source sensible reste **privé** — ici : existence, stack, contexte, démos.
@@ -27,7 +27,7 @@ Le code source sensible reste **privé** — ici : existence, stack, contexte, d
 
 | # | Projet | Visibilité code | Stack courte | Fiche |
 |---|--------|-----------------|--------------|-------|
-| 1 | Terrops (mobile + backoffice + landing) | Privé · showcase public | Expo, RN, Supabase, Next | [terrops](./case-studies/terrops.md) |
+| 1 | Terrops (mobile + backoffice + landing) | Privé · showcase public | Expo, RN, **AWS**, **Terraform**, RDS | [terrops](./case-studies/terrops.md) / [détail](./case-studies/copilot-chantier.md) |
 | 2 | Terrops Showcase | **Public** | Java 17, Spring, Angular | [repo](https://github.com/abdelmonaimmouhalhalit-glitch/terrops-showcase) |
 | 3 | Pack VLM conformité DTU | Privé (pack) | VLM, Edge Functions, JSON schemas | [vlm](./case-studies/terrops-vlm.md) |
 | 4 | DocKit / MyATSCheck | Privé (local) | Next.js, Supabase, Stripe, IA | [dockit-ats](./case-studies/dockit-ats.md) |
@@ -66,13 +66,14 @@ Le code source sensible reste **privé** — ici : existence, stack, contexte, d
 
 ```
 Langages     TypeScript · Java · Dart · PHP · Python · SQL
-Backend      Spring Boot · Next.js API · Node · Laravel · Supabase Edge
+Backend      Spring Boot · Next.js API · Node · Laravel · AWS Lambda
 Frontend     Angular · React · Next.js · Vite · Blade / Livewire
 Mobile       React Native · Expo (EAS) · Flutter
-Data         PostgreSQL · Prisma · Supabase (Auth, RLS, Storage)
+Data         PostgreSQL · RDS · Prisma
+Cloud        AWS (Cognito, RDS, Lambda, S3, IAM) · Terraform
 Paiements    Stripe · YouCan Pay
 IA           Gemini · n8n · VLM / vision conformité
-Cloud / CI   Vercel · Docker · GitHub Actions · EAS · Render
+CI / Host    Vercel · Docker · GitHub Actions · EAS · Render
 ```
 
 ---

@@ -1,15 +1,15 @@
 # Pack VLM conformité DTU — fiche publique
 
-Pack onboarding IA/VLM : photos chantier → conformité DTU → signal bonus-malus actuariel.
+Pack onboarding IA/VLM : photos chantier → conformité DTU → signal bonus-malus actuariel (brique Terrops).
 
 ## Contenu (sans code prod)
 
-Spéc produit, contrat VLM (schémas JSON), prompts, edge function, fixtures, matrice de tests, dataset smoke.
+Spéc produit, contrat VLM (schémas JSON), prompts, workers, fixtures, matrice de tests, dataset smoke.
 
 ## Stack
 
-Vision Language Model · Supabase Edge · JSON schemas · labeling expert
+Vision Language Model · **AWS Lambda** · JSON schemas · labeling expert · intégration pipeline preuves
 
 ## Note
 
-Code / données sensibles **non publiés** (pack local `proof-conformity-vlm-pack`).
+Code / données sensibles **non publiés** (pack local).
